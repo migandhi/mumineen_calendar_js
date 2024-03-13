@@ -262,6 +262,13 @@
         "phase": "day",
         "priority": 2,
         "year": null
+      },
+      {
+        "title": "Mansur bhai AbdulHusein",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
       }
     ]
   },
@@ -483,6 +490,19 @@
   },
   {
     "month": 1,
+    "date": 24,
+    "miqaats": [
+      {
+        "title": "Husena bai MohammadAli",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      }
+    ]
+  },
+  {
+    "month": 1,
     "date": 27,
     "miqaats": [
       {
@@ -513,6 +533,13 @@
     "miqaats": [
       {
         "title": "Urus Syedi Hasan Zakiyuddin",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      },
+      {
+        "title": "Sara ben Abdul Husein",
         "description": null,
         "phase": "day",
         "priority": 3,
@@ -720,6 +747,19 @@
   },
   {
     "month": 3,
+    "date": 2,
+    "miqaats": [
+      {
+        "title": "Qurban bhai mulla Nazar Ali)",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      }
+    ]
+  },
+  {
+    "month": 3,
     "date": 4,
     "miqaats": [
       {
@@ -799,6 +839,26 @@
         "description": "25th Dai, Ahmedabad, India.",
         "phase": "day",
         "priority": 1,
+        "year": null
+      },
+      {
+        "title": "Batul bai Mulla Nazar Ali",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      }
+    ]
+  },
+  {
+    "month": 3,
+    "date": 18,
+    "miqaats": [
+      {
+        "title": "Abbas bhai Mulla Nazar Ali",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
         "year": null
       }
     ]
@@ -884,6 +944,19 @@
   },
   {
     "month": 4,
+    "date": 2,
+    "miqaats": [
+      {
+        "title": "Abdul Husein Mulla Nazar Ali",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      }
+    ]
+  },
+  {
+    "month": 4,
     "date": 3,
     "miqaats": [
       {
@@ -901,6 +974,13 @@
     "miqaats": [
       {
         "title": "Urus Syedi Mulla Wahid Bhaisaheb bin Mulla Ibrahimji",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      },
+      {
+        "title": "Sugra bai Mohammad Ali",
         "description": null,
         "phase": "day",
         "priority": 3,
@@ -1001,10 +1081,43 @@
   },
   {
     "month": 5,
+    "date": 5,
+    "miqaats": [
+      {
+        "title": "Tara ben Mulla Nazar Ali",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      }
+    ]
+  },
+  {
+    "month": 5,
     "date": 8,
     "miqaats": [
       {
         "title": "Urus Syedi Luqmaanji bin Mulla Habibullah",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      },
+      {
+        "title": "Mariyam bai Khan bhai",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      }
+    ]
+  },
+  {
+    "month": 5,
+    "date": 10,
+    "miqaats": [
+      {
+        "title": "Farida Ebrahim bhai Dhandukawala",
         "description": null,
         "phase": "day",
         "priority": 3,
@@ -1087,6 +1200,19 @@
   },
   {
     "month": 5,
+    "date": 21,
+    "miqaats": [
+      {
+        "title": "Saleh bhai Mulla Nazar Ali",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      }
+    ]
+  },
+  {
+    "month": 5,
     "date": 23,
     "miqaats": [
       {
@@ -1094,6 +1220,19 @@
         "description": "34th Dai, Jamnagar, India.",
         "phase": "day",
         "priority": 1,
+        "year": null
+      }
+    ]
+  },
+  {
+    "month": 5,
+    "date": 25,
+    "miqaats": [
+      {
+        "title": "Qubra bai Zawjate Asgar Ali",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
         "year": null
       }
     ]
@@ -1114,6 +1253,13 @@
         "description": null,
         "phase": "day",
         "priority": 1,
+        "year": null
+      },
+      {
+        "title": "Mansur bhai Ebrahim bhai Khanjiwala",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
         "year": null
       }
     ]
@@ -1244,6 +1390,19 @@
     "miqaats": [
       {
         "title": "Urus Syedi Saifuddin Saheb",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      }
+    ]
+  },
+  {
+    "month": 6,
+    "date": 11,
+    "miqaats": [
+      {
+        "title": "Ebrahim bhai Akbarali Dhandhukawala",
         "description": null,
         "phase": "day",
         "priority": 3,
@@ -1451,6 +1610,19 @@
     ]
   },
   {
+    "month": 6,
+    "date": 30,
+    "miqaats": [
+      {
+        "title": "Taheri bhai Mohsin bhai Unwala",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      }
+    ]
+  },
+  {
     "month": 7,
     "date": 1,
     "miqaats": [
@@ -1504,6 +1676,19 @@
   },
   {
     "month": 7,
+    "date": 18,
+    "miqaats": [
+      {
+        "title": "Amena bai RehmatAli",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      }
+    ]
+  },
+  {
+    "month": 7,
     "date": 19,
     "miqaats": [
       {
@@ -1542,6 +1727,19 @@
       {
         "title": "Urus Syedi Shams Khan bin Syedi Yusufji",
         "description": "Surat, India.",
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      }
+    ]
+  },
+  {
+    "month": 7,
+    "date": 28,
+    "miqaats": [
+      {
+        "title": "Fatema bai Mulla AbdeAli",
+        "description": null,
         "phase": "day",
         "priority": 3,
         "year": null
@@ -1689,6 +1887,13 @@
         "description": "44th Dai, Surat, India.",
         "phase": "day",
         "priority": 1,
+        "year": null
+      },
+      {
+        "title": "Mulla Nazar Ali MohammadAli",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
         "year": null
       }
     ]
@@ -1924,6 +2129,19 @@
   },
   {
     "month": 9,
+    "date": 19,
+    "miqaats": [
+      {
+        "title": "Saifee bhai Mansur bhai Khanjiwala",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      }
+    ]
+  },
+  {
+    "month": 9,
     "date": 24,
     "miqaats": [
       {
@@ -1975,6 +2193,19 @@
       },
       {
         "title": "Urus Mulla Salehbhai Ibne Najamkhan",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "date": 4,
+    "miqaats": [
+      {
+        "title": "Asgar bhai Mulla Nazar Ali",
         "description": null,
         "phase": "day",
         "priority": 3,
@@ -2159,6 +2390,19 @@
     "miqaats": [
       {
         "title": "Urus Syedi Khoj bin Malak",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": null
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "date": 8,
+    "miqaats": [
+      {
+        "title": "Hatim bhai Mulla Nazar Ali",
         "description": null,
         "phase": "day",
         "priority": 3,

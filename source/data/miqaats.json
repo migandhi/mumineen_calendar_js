@@ -2215,6 +2215,19 @@
   },
   {
     "month": 10,
+    "date": 6,
+    "miqaats": [
+      {
+        "title": "NAFISA BAI ABDUL HUSAIN BHAI RAJKOTWALA ( GANDHI )",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": 1445
+      }
+    ]
+  },
+  {
+    "month": 10,
     "date": 9,
     "miqaats": [
       {

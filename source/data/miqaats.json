@@ -121,6 +121,19 @@
   },
   {
     "month": 0,
+    "date": 12,
+    "miqaats": [
+      {
+        "title": "Iqbal bhai AbdulHusein Gandhi(Rajkotwala)",
+        "description": null,
+        "phase": "day",
+        "priority": 3,
+        "year": 1446
+      }
+    ]
+  },
+  {
+    "month": 0,
     "date": 14,
     "miqaats": [
       {
